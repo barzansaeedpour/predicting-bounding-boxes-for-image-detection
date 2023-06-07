@@ -1,6 +1,6 @@
 # Predicting Bounding Boxes for Object Detection
 
-In this repository we use tensorflow hub pretrained modules to detect objects in images and draw bounding boxes around the detected objects using the oputpus.
+In this repository we use tensorflow hub pretrained modules to detect objects in images and draw bounding boxes around the detected objects using the outputs.
 
 ## Table of Contents
 
