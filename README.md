@@ -63,7 +63,7 @@ You can choose an object detection module. Here are two that I've selected for y
 
 To get started with this project, follow these steps:
 
-1. Click this link to open the notebook in Colab: https://colab.research.google.com/github/barzansaeedpour/predicting_bounding-boxes_for_object_detection/blob/main/predicting_bounding-boxes_for_object_detection.ipynb
+1. Click this link to open the notebook in Colab: https://colab.research.google.com/github/barzansaeedpour/predicting-bounding-boxes-for-image-detection/blob/main/predicting_bounding-boxes_for_object_detection.ipynb
 
 2. The instruction and explaination of the code is mentioned in the notebook
 
